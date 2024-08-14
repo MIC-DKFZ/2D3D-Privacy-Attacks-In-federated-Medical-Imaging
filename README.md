@@ -23,13 +23,13 @@ To reproduce the experiments and run the code associated with this paper, you'll
     ```
 
 ## License
-This project is licensed under the Apache Software License 2.0 ([License URL](https://www.apache.org/licenses/LICENSE-2.0)). Please see the license file for more details.
+This project is licensed under the [Apache Software License 2.0](https://www.apache.org/licenses/LICENSE-2.0). Please see the license file for more details.
 
 ## Acknowledgments
-This work was built upon the base framework provided by [Repository Name](Repository URL). We would like to extend our thanks to the authors of the following papers for their significant contributions, which greatly inspired our work:
+This work was built upon the  framework provided by (https://github.com/JonasGeiping/breaching). We would like to extend our thanks to the authors of this framework and the following papers for their significant contributions, which greatly inspired our work:
 
-1. [Paper Title 1](DOI or URL)
-2. [Paper Title 2](DOI or URL)
+1. [Robbing the Fed: Directly Obtaining Private Data in Federated Learning with Modified Models ](https://arxiv.org/abs/2110.13057)
+2. [When the Curious Abandon Honesty: Federated Learning Is Not Private](https://ieeexplore.ieee.org/abstract/document/10190537)
 
 
 
