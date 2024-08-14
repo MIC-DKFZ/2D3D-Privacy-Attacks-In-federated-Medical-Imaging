@@ -21,6 +21,13 @@ To reproduce the experiments and run the code associated with this paper, you'll
     ```bash
     conda activate [Environment Name]
     ```
+## Example Notebooks
+
+We provide example Jupyter notebooks to demonstrate the attack of our methods to both 2D and 3D medical image data. These can be found in the `example_notebooks` folder.
+
+- **2D Medical Image Attack:** This notebook walks through the process of attacking 2D medical images using the techniques discussed in our paper. You can find it at `example_notebooks/2D_Attack.ipynb.ipynb`.
+- **3D Medical Image Attack:** This notebook provides an example of attacking 3D medical images, showcasing the methods and results for 3D data. The notebook is located at `example_notebooks/3D_Attack.ipynb.ipynb`.
+
 
 ## License
 This project is licensed under the [Apache Software License 2.0](https://www.apache.org/licenses/LICENSE-2.0). Please see the license file for more details.
