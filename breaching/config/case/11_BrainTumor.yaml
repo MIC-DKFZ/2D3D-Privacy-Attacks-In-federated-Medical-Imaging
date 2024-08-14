@@ -1,0 +1,12 @@
+name: BrainTumor
+
+defaults:
+  - data: BrainTumor
+  - impl: default
+  - server: malicious-model-cah
+  - user: local_update
+  - _self_
+model: ResNet18
+
+# Server and user:
+num_queries: 1
